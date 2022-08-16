@@ -1,11 +1,11 @@
-﻿using System;
+using System;
  namespace VSCodeNetTest
  {
     class program
     {
      static void Main(string[] args)
      {
-        Console.WriteLine("Hello World! \n Husnain Ali Asghar");
+        Console.WriteLine("Hello World!");
      }
     }
  }
